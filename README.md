@@ -11,13 +11,13 @@ Este proyecto consta de dos scripts en Python para una aplicación de chat: `cha
 1. **Clona o descarga el repositorio:**
 
     ```bash
-    git clone <URL-del-repositorio>
+    git clone https://github.com/CodingJAndres/Chat-Application.git
     ```
 
 2. **Navega al directorio del proyecto:**
 
     ```bash
-    cd <nombre-del-directorio>
+    cd Chat-Application
     ```
 
 3. **No se requieren dependencias externas**: Ambos scripts utilizan solo la biblioteca estándar de Python.
